@@ -85,7 +85,7 @@ A simple Tic-Tac-Toe game that allows two players to take turns until one player
 - JavaScript
 
 ## Author
-Rahul Kure
+Parth Bhosale
 
 ## License
 This project is open-source and free to use.
